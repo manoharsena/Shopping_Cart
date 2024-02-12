@@ -87,4 +87,4 @@ This project is licensed under the MIT License.
 
 ## Netlify
 
-This Project also deployed in Netlify. To view in your browser [CLICK HERE](#netlify)
+This Project also deployed in Netlify. To view in your browser [CLICK HERE](https://shopping-cart-3411.netlify.app/)
