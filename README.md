@@ -64,7 +64,7 @@ cd Shopping_Cart
 
 ## Install dependencies:
 
-npm install
+npm install <br>
 npm i bootstrap
 
 ## Usage
