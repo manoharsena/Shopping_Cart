@@ -64,8 +64,8 @@ cd Shopping_Cart
 
 ## Install dependencies:
 
-npm install <br>
-npm i bootstrap
+<b>npm install</b> <br>
+<b>npm i bootstrap</b>
 
 ## Usage
 
@@ -75,9 +75,9 @@ npm i bootstrap
 <b>npm run dev</b>
 
 ## Technologies Used
-HTML
-CSS
-Bootstrap
+HTML,
+CSS,
+Bootstrap and
 React JS
 
 
